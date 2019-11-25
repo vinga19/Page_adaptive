@@ -1,6 +1,6 @@
 body
 {
-   /*background-image: url('../img/adaptive8.jpg');*/
+   background-image: url('../img/branca.jpg');
    background-color: darkgrey;
    background-repeat: no-repeat; 
    background-size: cover; 
@@ -43,7 +43,7 @@ body
 .jumbotron
 {
   background-color: transparent;
-  color: white;
+  color: #176085;
   text-align: center;
   position: relative;
   
