@@ -1,6 +1,6 @@
 
 
-<img src = "../img/logo_adaptive" height = "150" width = "150"  >
+<img src = "https://eztech.ind.br/wp-content/uploads/2017/10/logo-adaptive.png" height = "150" width = "150"  >
  
 
 
