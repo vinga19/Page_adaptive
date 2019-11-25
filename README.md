@@ -1,6 +1,6 @@
 
 
-<img src = ../src/img/logo_adaptive" height = "150" width = "150"  >
+<img src = "../src/img/logo_adaptive" height = "150" width = "150"  >
  
 
 
